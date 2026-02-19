@@ -1,7 +1,8 @@
 ﻿using System;
-
+///NameSpace 
 namespace MeuPrograma
 {
+   ///Class
     public class Program
     {
         private static void Main(string[] args)
